@@ -144,11 +144,3 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
 </p>
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwhickup&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="developersuper" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwhickup&show_icons=true&locale=en&theme=cobalt" alt="developersuper" width="50%" />
-</p>
